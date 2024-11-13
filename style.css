@@ -1,0 +1,27 @@
+.lagsana,.arepa,.dog{
+    background-color: coral;
+}
+
+h1{
+    text-align: center;
+    background-color: beige;
+}
+
+ul,ol{
+    text-align: center;
+    background-color: aquamarine;
+    font-family: sans-serif;
+}
+
+h3{
+    background-color: darkcyan;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+
